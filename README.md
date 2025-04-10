@@ -31,7 +31,7 @@ We implemented a feedforward neural network from scratch using NumPy to classify
   | 3                  | 1   | 95 |
 
 - Loss curve:  
-  ![Loss graph](results/loss_graph.png) *(add if you have image)*
+  ![Loss graph](/loss_graph.png) *(add if you have image)*
 
 ## 📁 Files
 - `basics_2025.ipynb` – Jupyter Notebook with full implementation
