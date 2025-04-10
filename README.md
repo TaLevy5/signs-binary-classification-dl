@@ -31,15 +31,13 @@ We implemented a feedforward neural network from scratch using NumPy to classify
   | 3                  | 1   | 95 |
 
 - Loss curve:  
-  ![Loss graph](/loss_graph.png) *(add if you have image)*
+  ![Loss graph](/LossGraph.png) *(add if you have image)*
 
 ## 📁 Files
 - `basics_2025.ipynb` – Jupyter Notebook with full implementation
 - `report.pdf` – Project documentation and discussion
 - `README.md` – You’re here
 
-## 🔗 Colab Link
-[Click here to open in Google Colab](https://colab.research.google.com/drive/1oeKGQ4Lbu8qVyKOQqCsLjp3Tsn48N14G)
 
 ## 🧠 What I Learned
 - Manual implementation of a neural network using NumPy
